@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ujg11
 - 👀 I’m interested in Programming and engineering stuff
-- 🌱 I’m currently studying in 42 barcelona apart from studing "Ingenieria de Sistemas Audiovisuales" in UPC
-- 💞️ I’m looking to collaborate on VR and IA projects
+- 🌱 I’m currently studying in 42 barcelona apart from studing "Audiovisual Systems Engineering" in UPC
+- 💞️ I’m looking to collaborate on VR and IA projects apart from all kinds of Technological Projects
 - 📫 How to reach me: orioljg2002@gmail.com
