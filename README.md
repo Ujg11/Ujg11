@@ -54,9 +54,9 @@
 
 |                                                                    My Stats                                                                     |
 |:----------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=[tu-usuario]&theme=react-dark&hide_border=true&area=true) |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[tu-usuario]&show_icons=true&theme=algolia)                     | 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[tu-usuario]&theme=algolia)                     | 
+| ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ujg11&theme=react-dark&hide_border=true&area=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ujg11&show_icons=true&theme=algolia)                     | 
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ujg11&theme=algolia)                     | 
 
 
 <table style="border: none">
