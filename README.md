@@ -66,12 +66,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujg11&theme=algolia" alt="GitHub Streak" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=Ujg11&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
 
 <table style="border: none">
   <tr>
