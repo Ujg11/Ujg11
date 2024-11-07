@@ -52,17 +52,31 @@
 
 ## GitHub Stats
 
-|                                                                    My Stats                                                                     |
-|:----------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ujg11&theme=react-dark&hide_border=true&area=true) |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ujg11&show_icons=true&theme=algolia)                     | 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ujg11&theme=algolia)                     |
-| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujg11&layout=compact&theme=algolia) |
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ujg11&show_icons=true&theme=algolia" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujg11&layout=compact&theme=algolia" alt="Most Used Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujg11&theme=algolia" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=Ujg11&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
+  
 
 ## Let's Work on Your Project Together!
 
