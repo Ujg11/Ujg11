@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-<img src="https://gpvc.arturio.dev/tu-usuario" alt="Profile views" align="right"/>
+<img src="https://gpvc.arturio.dev/Ujg11" alt="Profile views" align="right"/>
 
 <br/>
  
