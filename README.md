@@ -52,18 +52,6 @@
 
 ## Most Used Languages
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujg11&layout=compact&theme=algolia" alt="Most Used Languages" />
 </p>
-  
-
-## Let's Work on Your Project Together!
-
-If you have any questions about backend development, AI, or general programming, feel free to <a href="mailto:[tu-email]">contact me</a>!
-
-I'm open to freelance or internship opportunities where I can contribute to projects and learn new things.
-  </td>
-  <td width="50%" valign="top">
-  </td>
-</tr>
-</table>
