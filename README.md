@@ -50,26 +50,11 @@
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-## GitHub Stats
+## Most Used Languages
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ujg11&show_icons=true&theme=algolia" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujg11&layout=compact&theme=algolia" alt="Most Used Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujg11&theme=algolia" alt="GitHub Streak" />
-    </td>
-  </tr>
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujg11&layout=compact&theme=algolia" alt="Most Used Languages" />
+</p>
   
 
 ## Let's Work on Your Project Together!
