@@ -56,7 +56,8 @@
 |:----------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ujg11&theme=react-dark&hide_border=true&area=true) |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ujg11&show_icons=true&theme=algolia)                     | 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ujg11&theme=algolia)                     | 
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ujg11&theme=algolia)                     |
+| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujg11&layout=compact&theme=algolia) |
 
 
 <table style="border: none">
