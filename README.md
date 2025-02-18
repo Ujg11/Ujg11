@@ -7,7 +7,7 @@
  
 - 👀 I’m interested in Programming and engineering stuff  
 - 🌱 I’m currently studying at 42 Barcelona, as well as studying "Audiovisual Systems Engineering" at UPC  
-- 💞️ I’m looking to collaborate on VR and AI projects, and all kinds of technological projects
+- 💞️ I’m looking to collaborate on Spftware Development, VR and AI projects, and all kinds of technological projects
 - 📫 How to reach me: orioljg2002@gmail.com  
 
 
